@@ -21,10 +21,11 @@ I am interested in uncertainty quantification, computational statistics and mach
 
 
 ## Talk/Presentation
-*   Poster at _[IMSI Workshop - Expressing and Exploiting Structure in Modeling, Theory, and Computation with Gaussian Processes](https://www.imsi.institute/activities/gaussian-processes/)_, August 2022, USA.   
+*   Poster at _[IMSI Workshop - Expressing and Exploiting Structure in Modeling, Theory, and Computation with Gaussian Processes](https://www.imsi.institute/activities/gaussian-processes/)_, August 2022, USA.
 *   Talk at _[SIAM Conference on Uncertainty Quantification](https://siam.org/conferences/cm/conference/uq22)_, April 2022, USA.
-*   Talk at _[High Dimensional and Functional Data Group](https://sites.google.com/view/dce-reading-group/home)_, April 2022, UK. 
+*   Talk at _[ High Dimensional and Functional Data Group](https://sites.google.com/view/hdfd-ucl/inicio?authuser=0)_, April 2022, UK. 
 *   Poster at _[The Machine Learning Summer School by the Max Planck Institute for Intelligent Systems](http://mlss.tuebingen.mpg.de/2020/)_, June 2020, Germany.
+
 
 
 
