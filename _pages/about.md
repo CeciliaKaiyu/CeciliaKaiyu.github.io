@@ -18,7 +18,7 @@ I am interested in uncertainty quantification, computational statistics and mach
 
 
 ## Publication
-*   __Li, K.__, Giles, D., Karvonen, T., Guillas, S., & Briol, F. X. (2023). [Multilevel Bayesian Quadrature](https://proceedings.mlr.press/v206/li23a.html). In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. [(selected for oral presentation)]()
+*   __Li, K.__, Giles, D., Karvonen, T., Guillas, S., & Briol, F. X. (2023). [Multilevel Bayesian Quadrature](https://proceedings.mlr.press/v206/li23a.html). In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. [(selected for an oral presentation (top 6% of accepted papers) )]()
 
 
 
