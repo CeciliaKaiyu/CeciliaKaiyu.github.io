@@ -23,7 +23,7 @@ I am interested in uncertainty quantification, computational statistics and mach
 
 
 ## Talk/Presentation
-*  Oral presentation at [The 26th International Conference on Artificial Intelligence and Statistics (AISTATS)](http://aistats.org/aistats2023/), April 2022, Spain
+*  Oral presentation at [The 26th International Conference on Artificial Intelligence and Statistics (AISTATS)](http://aistats.org/aistats2023/), April 2023, Spain
 *   Poster at [IMSI Workshop - Expressing and Exploiting Structure in Modeling, Theory, and Computation with Gaussian Processes](https://www.imsi.institute/activities/gaussian-processes/), August 2022, USA.
 *   Talk at [SIAM Conference on Uncertainty Quantification](https://siam.org/conferences/cm/conference/uq22), April 2022, USA.
 *   Talk at [ High Dimensional and Functional Data Group](https://sites.google.com/view/hdfd-ucl/inicio?authuser=0), April 2022, UK. 
