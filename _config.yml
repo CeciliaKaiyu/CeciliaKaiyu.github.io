@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LKY"
+title                    : "Kaiyu"
 title_separator          : "-"
 name                     : &name "Kaiyu Li"
 description              : &description "PhD Candidate"
