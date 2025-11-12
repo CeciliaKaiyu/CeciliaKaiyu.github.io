@@ -19,6 +19,7 @@ I am interested in uncertainty quantification, computational statistics and mach
 
 ## Publication
 *   __Li, K.__, Giles, D., Karvonen, T., Guillas, S., & Briol, F. X. (2023). [Multilevel Bayesian Quadrature](https://proceedings.mlr.press/v206/li23a.html). In Proc. of International Conference on Artificial Intelligence and Statistics (AISTATS). PMLR. [(selected for an oral presentation (top 6% of accepted papers) )]()
+*   __Li, K.__, Salmanidou, D., Gopinathan, D., Heidarzadeh, M., &  Guillas, S. (2025). [Uncertainty in Manning’s roughness coefficient in multilevel simulations of future tsunamis in Sumatra](https://royalsocietypublishing.org/doi/full/10.1098/rspa.2024.0637). Proceedings of the Royal Society A, 481(2316), p.20240637.
 
 
 
