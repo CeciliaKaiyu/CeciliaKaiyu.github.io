@@ -83,7 +83,7 @@ author:
   name             : "Kaiyu Li"
   avatar           : "profile.png"
   bio              : "Researcher in Statistics and Machine Learning"
-  location         : "U.K."
+  location         :
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : ""
