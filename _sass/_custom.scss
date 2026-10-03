@@ -1,0 +1,212 @@
+/* ==========================================================================
+   Homepage: news, publications, talks
+   ========================================================================== */
+
+.home-section {
+  margin-top: 2em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid $border-color;
+}
+
+.pub-group {
+  margin-top: 1.2em;
+  font-size: 1em;
+  color: $dark-gray;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.news-list,
+.talk-list,
+.pub-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.news-list li {
+  margin-bottom: 0.5em;
+  padding-left: 5.5em;
+  text-indent: -5.5em;
+}
+
+.news-date {
+  display: inline-block;
+  width: 5em;
+  margin-right: 0.5em;
+  text-indent: 0;
+  color: $gray;
+  font-size: $type-size-6;
+  font-weight: bold;
+}
+
+.pub-list li {
+  position: relative;
+  margin-bottom: 1.1em;
+  padding: 0.7em 0.9em;
+  border-left: 3px solid $info-color;
+  background: mix(#fff, $info-color, 95%);
+  border-radius: 0 4px 4px 0;
+}
+
+.venue {
+  display: inline-block;
+  margin-bottom: 0.3em;
+  padding: 0.1em 0.55em;
+  border-radius: 3px;
+  background: $info-color;
+  color: #fff;
+  font-size: $type-size-7;
+  font-weight: bold;
+  letter-spacing: 0.03em;
+}
+
+.venue-journal {
+  background: $success-color;
+}
+
+.pub-list.journal li {
+  border-left-color: $success-color;
+  background: mix(#fff, $success-color, 95%);
+}
+
+.pub-title {
+  font-weight: bold;
+  line-height: 1.35;
+}
+
+.pub-title a {
+  text-decoration: none;
+}
+
+.pub-authors,
+.pub-venue {
+  font-size: $type-size-6;
+}
+
+.pub-venue {
+  font-style: italic;
+  color: $dark-gray;
+}
+
+.pub-highlight {
+  margin-top: 0.2em;
+  font-size: $type-size-6;
+  font-weight: bold;
+  color: #b45309;
+}
+
+.pub-links {
+  margin-top: 0.3em;
+  font-size: $type-size-7;
+}
+
+.pub-links a {
+  display: inline-block;
+  margin-right: 0.4em;
+  padding: 0 0.5em;
+  border: 1px solid $info-color;
+  border-radius: 3px;
+  text-decoration: none;
+}
+
+.pub-links a:hover {
+  background: $info-color;
+  color: #fff;
+}
+
+.page__content > .home-section:first-child {
+  margin-top: 0;
+}
+
+.pub-list.journal .pub-links a {
+  border-color: $success-color;
+  color: mix(#000, $success-color, 25%);
+}
+
+.pub-list.journal .pub-links a:hover {
+  background: $success-color;
+  color: #fff;
+}
+
+/* Talks timeline */
+.talk-list {
+  position: relative;
+  margin-top: 1em;
+}
+
+.talk-list li {
+  display: grid;
+  grid-template-columns: 5.2em 1fr;
+  column-gap: 1em;
+  position: relative;
+  margin-bottom: 0;
+  padding-bottom: 1.1em;
+}
+
+/* vertical line + dot */
+.talk-list li::before {
+  content: "";
+  position: absolute;
+  left: 5.75em;
+  top: 0.45em;
+  width: 9px;
+  height: 9px;
+  margin-left: -4px;
+  border-radius: 50%;
+  background: $info-color;
+  box-shadow: 0 0 0 3px mix(#fff, $info-color, 80%);
+}
+
+.talk-list li::after {
+  content: "";
+  position: absolute;
+  left: 5.75em;
+  top: 1.2em;
+  bottom: 0;
+  width: 1px;
+  background: $border-color;
+}
+
+.talk-list li:last-child::after {
+  display: none;
+}
+
+.talk-date {
+  color: $gray;
+  font-size: $type-size-6;
+  font-weight: bold;
+  text-align: right;
+  padding-right: 0.6em;
+  line-height: 1.8;
+}
+
+.talk-body {
+  padding-left: 0.9em;
+}
+
+.talk-type {
+  display: inline-block;
+  margin-right: 0.35em;
+  padding: 0 0.5em;
+  border-radius: 3px;
+  font-size: $type-size-7;
+  font-weight: bold;
+  vertical-align: 0.1em;
+  color: #fff;
+}
+
+.talk-talk   { background: $info-color; }
+.talk-oral   { background: #d97706; }
+.talk-poster { background: $gray; }
+
+.talk-event {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.talk-loc {
+  margin-top: 0.15em;
+  font-size: $type-size-6;
+  color: $dark-gray;
+}

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Kaiyu"
 title_separator          : "-"
 name                     : &name "Kaiyu Li"
-description              : &description "PhD Candidate"
+description              : &description "Researcher in Statistics and Machine Learning"
 url                      : https://CeciliaKaiyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CeciliaKaiyu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kaiyu Li"
   avatar           : "profile.png"
-  bio              : "PhD candidate in Statistical Science"
+  bio              : "Researcher in Statistics and Machine Learning"
   location         : "U.K."
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
